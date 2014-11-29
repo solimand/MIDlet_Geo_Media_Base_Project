@@ -1,0 +1,8 @@
+MIDlet-1: HelloMadWorldMIDlet,,HelloMadWorldMIDlet
+MIDlet-Jar-Size: 16053
+MIDlet-Jar-URL: HelloMadWorld.jar
+MIDlet-Name: HelloMadWorld
+MIDlet-Vendor: Nokia Dev
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
