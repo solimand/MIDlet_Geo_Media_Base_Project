@@ -6,8 +6,6 @@ ENVIRONMENT
 5. installare particolare versione di SDK per target devices' configuration (una serie di)
 6. nokia IDE si collega da solo a emulator (anche per debug, porta locale):
 	a) altrimenti dal menù si può aprire una MIDlet (Jar-Jad) debugable
-7.
-8.
 
 BIBLIO
 1) [Getting Start] http://developer.nokia.com/resources/library/Java/getting-started/creating-your-first-midlet-in-nokia-ide-for-java-me.html
