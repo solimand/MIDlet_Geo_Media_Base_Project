@@ -5,7 +5,7 @@ ENVIRONMENT
 4. launch Nokia IDE for Java ME (Eclipse) v3.1
 5. installare particolare versione di SDK per target devices' configuration (una serie di)
 6. nokia IDE si collega da solo a emulator (anche per debug, porta locale):
-	a) altrimenti dal menù si può aprire una MIDlet (Jar-Jad) debugable
+	a) altrimenti dal menÃ¹ si puÃ² aprire una MIDlet (Jar-Jad) debugable
 7.
 8.
 
